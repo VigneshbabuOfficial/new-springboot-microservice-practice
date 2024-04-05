@@ -1,0 +1,21 @@
+
+server:
+  port: 8081
+  
+spring:
+  application:
+    name: client-service-1
+      
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      default-zone: http://localhost:8761/eureka/
+  instance:
+    hostname: localhost
+ 
+logging:
+  file:
+    name: D:/learnings/backend/java/spring_boot/microservice/microservice_practice_prj/client-service-1/client-service-1.log    
+      
