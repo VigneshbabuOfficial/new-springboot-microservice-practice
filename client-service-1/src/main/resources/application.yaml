@@ -17,5 +17,5 @@ eureka:
  
 logging:
   file:
-    name: D:/learnings/backend/java/spring_boot/microservice/microservice_practice_prj/client-service-1/client-service-1.log    
+    name: D:/learnings/backend/java/spring_boot/microservice/microservice_practice/client-service-1/log/client-service-1.log
       
