@@ -68,3 +68,34 @@
 2024-04-08T16:15:57.808+05:30  INFO 18044 --- [client-service-2] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
 2024-04-08T16:20:33.515+05:30  INFO 18044 --- [client-service-2] [http-nio-8082-exec-1]  ##### ClientService2Application #####   : message = ------  CONTROLLER -  GET_DATA_FROM_SERVICE1  ------------------, requestId = bdc2386c-4302-3cc2-9695-b0d8c539c222
 2024-04-08T16:20:57.820+05:30  INFO 18044 --- [client-service-2] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-04-08T16:25:57.837+05:30  INFO 18044 --- [client-service-2] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-04-08T16:30:57.852+05:30  INFO 18044 --- [client-service-2] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-04-08T16:35:57.855+05:30  INFO 18044 --- [client-service-2] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-04-08T16:40:57.872+05:30  INFO 18044 --- [client-service-2] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-04-08T16:45:57.882+05:30  INFO 18044 --- [client-service-2] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-04-08T16:50:57.889+05:30  INFO 18044 --- [client-service-2] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-04-08T16:55:57.892+05:30  INFO 18044 --- [client-service-2] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-04-08T17:00:57.901+05:30  INFO 18044 --- [client-service-2] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-04-08T17:05:57.911+05:30  INFO 18044 --- [client-service-2] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-04-08T17:10:57.920+05:30  INFO 18044 --- [client-service-2] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-04-08T17:15:57.932+05:30  INFO 18044 --- [client-service-2] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-04-08T17:20:57.948+05:30  INFO 18044 --- [client-service-2] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-04-08T17:25:57.965+05:30  INFO 18044 --- [client-service-2] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-04-08T17:30:57.966+05:30  INFO 18044 --- [client-service-2] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-04-08T17:35:57.969+05:30  INFO 18044 --- [client-service-2] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-04-08T17:40:57.972+05:30  INFO 18044 --- [client-service-2] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-04-08T17:45:57.988+05:30  INFO 18044 --- [client-service-2] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-04-08T17:50:57.996+05:30  INFO 18044 --- [client-service-2] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-04-08T17:55:58.005+05:30  INFO 18044 --- [client-service-2] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-04-08T18:00:58.009+05:30  INFO 18044 --- [client-service-2] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-04-08T18:05:58.019+05:30  INFO 18044 --- [client-service-2] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-04-08T18:10:58.034+05:30  INFO 18044 --- [client-service-2] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-04-08T18:12:55.899+05:30  INFO 18044 --- [client-service-2] [RMI TCP Connection(132)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2024-04-08T18:12:55.910+05:30  INFO 18044 --- [client-service-2] [RMI TCP Connection(132)-127.0.0.1] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application CLIENT-SERVICE-2 with eureka with status DOWN
+2024-04-08T18:12:55.910+05:30  INFO 18044 --- [client-service-2] [RMI TCP Connection(132)-127.0.0.1] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1712580175910, current=DOWN, previous=UP]
+2024-04-08T18:12:55.910+05:30  INFO 18044 --- [client-service-2] [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CLIENT-SERVICE-2/DESKTOP-2N0APER:client-service-2:8082: registering service...
+2024-04-08T18:12:55.920+05:30  INFO 18044 --- [client-service-2] [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CLIENT-SERVICE-2/DESKTOP-2N0APER:client-service-2:8082 - registration status: 204
+2024-04-08T18:12:55.972+05:30  INFO 18044 --- [client-service-2] [RMI TCP Connection(132)-127.0.0.1] com.netflix.discovery.DiscoveryClient    : Shutting down DiscoveryClient ...
+2024-04-08T18:12:58.975+05:30  INFO 18044 --- [client-service-2] [RMI TCP Connection(132)-127.0.0.1] com.netflix.discovery.DiscoveryClient    : Unregistering ...
+2024-04-08T18:12:58.981+05:30  INFO 18044 --- [client-service-2] [RMI TCP Connection(132)-127.0.0.1] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CLIENT-SERVICE-2/DESKTOP-2N0APER:client-service-2:8082 - deregister  status: 200
+2024-04-08T18:12:58.985+05:30  INFO 18044 --- [client-service-2] [RMI TCP Connection(132)-127.0.0.1] com.netflix.discovery.DiscoveryClient    : Completed shut down of DiscoveryClient
