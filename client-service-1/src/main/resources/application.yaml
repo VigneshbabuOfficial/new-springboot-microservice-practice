@@ -18,4 +18,12 @@ eureka:
 logging:
   file:
     name: D:/learnings/backend/java/spring_boot/microservice/microservice_practice/client-service-1/log/client-service-1.log
+    
+    
+resilience4j:
+  bulkhead:
+    instances:
+      getMessageBH:
+        max-concurrent-calls: 2
+        max-wait-duration: 0
       
